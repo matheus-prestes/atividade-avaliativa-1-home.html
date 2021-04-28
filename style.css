@@ -38,7 +38,9 @@
 }
 
 .card-text {
-  font-weight: 300;
+  font-weight: 500;
+  color: rgb(0, 174, 255);
+  
 }
 
 .card-title {
