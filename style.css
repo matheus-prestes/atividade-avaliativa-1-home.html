@@ -6,6 +6,7 @@
 
 .carrossel {
   font-family: 'Montserrat', sans-serif;
+  
 }
 
 .colunas {
@@ -70,3 +71,7 @@ h1, h2 {
   margin-bottom: 50px;
 }
 
+h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  
+}
